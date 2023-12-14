@@ -1,8 +1,7 @@
 import os
 
 DIR_ROOT = os.path.abspath('./')
-DIR_COLOR_IMAGES = os.path.join(DIR_ROOT, 'dataset/color/')
-DIR_GRAY_IMAGES = os.path.join(DIR_ROOT, 'dataset/gray/')
+DIR_IMAGES = os.path.join(DIR_ROOT, 'grayscale-dataset-data/dataset/')
 
 # ------------------------------------------------------------ #
 
