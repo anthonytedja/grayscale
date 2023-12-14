@@ -1,7 +1,0 @@
-torch
-numpy
-opencv-python
-keras
-matplotlib
-scikit-learn
-Pillow
